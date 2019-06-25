@@ -26,6 +26,15 @@ body, html {
         font-weight: lighter;
     }
 
+    h3 {
+        font-size: 14px;
+        font-weight: lighter;
+    }
+
+    p {
+        font-weight: lighter;
+    }
+
     header {
         font-family: Roboto;
         color: #2d3c49;
@@ -59,13 +68,13 @@ body, html {
 
     .course_title {
         margin-top: 20px;
-        margin-bottom: 10px;
+        margin-bottom: 20px;
     }
 
     .course_section {
         display: flex;
     }
-    
+
     .course {
         display: flex;
         flex-direction: column;
