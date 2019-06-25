@@ -52,11 +52,16 @@ body, html {
         background-color: #7d97ad;
     }
 
-    .social_media{
+    .social_media {
         display: flex;
         flex-direction: column;
         text-transform: none;
+        text-align: center;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        font-size: 15px;
     }
+
     .featured {
         font-family: Roboto;
         color: #7d97ad;
