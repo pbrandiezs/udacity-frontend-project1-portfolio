@@ -55,3 +55,9 @@ body, html {
         font-size: 30px;
     }
 
+    .course {
+        display: flex;
+        flex-direction: column;
+        width: 30%;
+    }
+
