@@ -53,6 +53,13 @@ body, html {
 
     .featured_title {
         font-size: 30px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    .course_title {
+        margin-top: 10px;
+        margin-bottom: 10px;
     }
 
     .course {
@@ -61,3 +68,7 @@ body, html {
         width: 30%;
     }
 
+    .project_title {
+        margin-top: 5px;
+        margin-bottom: 3px;
+    }
