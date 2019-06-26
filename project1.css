@@ -53,16 +53,6 @@ body, html {
         background-color: #7d97ad;
     }
 
-    .social_media {
-        display: flex;
-        flex-direction: column;
-        text-transform: none;
-        text-align: center;
-        margin-top: 20px;
-        margin-bottom: 20px;
-        font-size: 15px;
-    }
-
     .featured {
         font-family: Roboto;
         color: #7d97ad;
@@ -95,4 +85,19 @@ body, html {
     .project_title {
         margin-top: 5px;
         margin-bottom: 3px;
+    }
+
+    .footer {
+        max-width: 80%;
+        margin: 3% 10%;
+    }
+
+    .social_media {
+        display: flex;
+        flex-direction: column;
+        text-transform: none;
+        text-align: center;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        font-size: 15px;
     }
