@@ -1,0 +1,123 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    }
+  
+    body {
+        font-family: Roboto;
+        font-size: 12px;
+        color: #424242;
+        
+    }
+  
+    h1, h2, h3, h4, h5 {
+        margin: 0; 
+    }
+
+    h1 {
+        font-size: 40px;
+        font-weight: lighter;
+    }
+
+    h2 {
+        font-size: 20px;
+        font-weight: lighter;
+    }
+
+    h3 {
+        font-size: 14px;
+        font-weight: lighter;
+    }
+
+    p {
+        font-weight: lighter;
+    }
+
+    header {
+        font-family: Roboto;
+        color: #2d3c49;
+        width: 80%;
+        text-align: right;
+        margin: 3% 10%;
+        text-transform: uppercase;
+    }
+
+    hr {
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 20px;
+        height: 2px;
+        background-color: #7d97ad;
+    }
+
+    img {
+        margin-top: 20px;
+    }
+
+    .featured {
+        font-family: Roboto;
+        color: #7d97ad;
+        width: 80%;
+        text-align: left;
+        margin: 3% 10%;
+    }
+
+    .featured_title {
+        font-size: 30px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    .course_title {
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    .course_section {
+        display: flex;
+    }
+
+    .course {
+        display: flex;
+        flex-direction: column;
+        width: 30%;
+    }
+
+    .project_title {
+        margin-top: 5px;
+        margin-bottom: 3px;
+    }
+
+    .footer {
+        max-width: 80%;
+        margin: 3% 10%;
+    }
+
+    .social_media {
+        display: flex;
+        flex-direction: column;
+        text-transform: none;
+        text-align: center;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        font-size: 15px;
+    }
+
+    @media screen and (max-width: 500px) {
+        .course {
+            width: 100%;
+        }
+
+        .course_section {
+            flex-direction: column;
+        }
+    }
+
+    @media screen and (min-width: 1500px) {
+        body {
+            max-width: 1500px;
+        }
+    }
