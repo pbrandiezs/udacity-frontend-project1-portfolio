@@ -101,3 +101,13 @@ body, html {
         margin-bottom: 20px;
         font-size: 15px;
     }
+
+    @media screen and (max-width: 500px) {
+        .course {
+            width: 100%;
+        }
+        
+        .course_section {
+            flex-direction: column;
+        }
+    }
