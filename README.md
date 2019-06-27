@@ -6,7 +6,7 @@ Udacity Frontend Nanodegree project 1 - Portfolio website
 * Author: Perry Brandiezs
 * Date: June 27, 2019
 
-
+### Overview
 * This HTML program is a Portfolio Site, to demonstrate HTTP, CSS, using Flexbox and Responsive Design.
 * The program is also used to highlight Featured Work, and has been hosted at perry-brandiezs.com
 
