@@ -42,6 +42,7 @@ body, html {
         text-align: right;
         margin: 3% 10%;
         text-transform: uppercase;
+        display: flex;
     }
 
     hr {
@@ -86,6 +87,10 @@ body, html {
         width: 30%;
     }
 
+    .course_image {
+        width: 80%;
+    }
+
     .project_title {
         margin-top: 5px;
         margin-bottom: 3px;
@@ -106,6 +111,14 @@ body, html {
         font-size: 15px;
     }
 
+    .name {
+        width: 80%;
+    }
+
+    .logo {
+        min-width: 200px;
+    }
+
     @media screen and (max-width: 500px) {
         .course {
             width: 100%;
@@ -113,6 +126,19 @@ body, html {
 
         .course_section {
             flex-direction: column;
+            width: 100%;
+        }
+
+        .course_image {
+            width: 100%;
+        }
+
+        .logo {
+            display: none;
+        }
+
+        .name {
+            width: 100%;
         }
     }
 
