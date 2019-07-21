@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width,initial-scale=1">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Memory Game</title>
+        <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="css/project2.css">
+    </head>
+    <body>
+        <header class="header">
+            <div class="title">
+                <h1>Matching Game</h1>
+            </div>
+            <div class="status">
+                <div id="stars" class="stars status-item">
+                    <!-- Reference https://www.w3schools.com/howto/howto_css_star_rating.asp -->
+                    <p>
+                        <span class="fa fa-star checked"></span>
+                        <span class="fa fa-star checked"></span>
+                        <span class="fa fa-star checked"></span>
+                    </p>
+                </div>
+                <div class="moves status-item">
+                    <p id="moves">Moves</p>
+                </div>
+                <div class="time status-item">
+                    <p id="time">Seconds:</p>
+                </div>
+                <div class="refresh status-item">
+                    <p>
+                        <a class="nounderline" href="index.html"><i class="fa fa-refresh status status-item" aria-hidden="true"></i></a>
+                    </p>
+                </div>
+            </div>
+        </header>
+        <main>
+            <div class="gamegrid">
+                <p class="cards card0">1</p>
+                <p class="cards card1">2</p>
+                <p class="cards card2">3</p>
+                <p class="cards card3">4</p>
+                <p class="cards card4">5</p>
+                <p class="cards card5">6</p>
+                <p class="cards card6">7</p>
+                <p class="cards card7">8</p>
+                <p class="cards card8">9</p>
+                <p class="cards card9">10</p>
+                <p class="cards card10">11</p>
+                <p class="cards card11">12</p>
+                <p class="cards card12">13</p>
+                <p class="cards card13">14</p>
+                <p class="cards card14">15</p>
+                <p class="cards card15">16</p>
+            </div>
+        </main>
+        <!-- Reference modal example https://sabe.io/tutorials/how-to-create-modal-popup-box-->
+        <!--<button class="trigger">Click here to trigger the modal!</button> -->
+        <div class="modal">
+            <div class="modal-content">
+                <span class="close-button">&times;</span>
+                <h1 id="modal-text">Hello, I am a modal!</h1>
+                <a class="play-again" href="index.html">Click to play again?</a>
+            </div>
+        </div>
+        <script src="js/app.js"></script>
+    </body>
