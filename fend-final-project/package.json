@@ -1,0 +1,19 @@
+{
+  "name": "udacity-frontend-final-project-restaurant-reviews",
+  "version": "1.0.0",
+  "description": "--- #### _Three Stage Course Material Project - Restaurant Reviews_",
+  "main": "js/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pbrandiezs/udacity-frontend-final-project-restaurant-reviews.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pbrandiezs/udacity-frontend-final-project-restaurant-reviews/issues"
+  },
+  "homepage": "https://github.com/pbrandiezs/udacity-frontend-final-project-restaurant-reviews#readme"
+}
