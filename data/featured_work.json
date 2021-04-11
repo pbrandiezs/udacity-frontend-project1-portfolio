@@ -1,0 +1,39 @@
+{
+    "course_titles": [{
+        "course_title": "Udacity Front End Web Developer Nanodegree",
+        "courses": [
+            {
+            "title": "Project 1 - Logs Analysis",
+            "image": "images/stock-photo-software-source-code-programming-code-programming-code-on-computer-screen-developer-working-on-634574354.jpg",
+            "alt_image": "Coding Graphic",
+            "description": "Portfolio Site - Demonstrate HTTP, CSS, using Flexbox and Responsive Design.",
+            "github_link": "https://github.com/pbrandiezs/udacity-frontend-project1-portfolio"
+            },
+            {
+            "title": "Project 2 - Memory Game"
+            }
+        ]
+        }, {
+        "course_title": "Udacity Full Stack Web Developer Nanodegree",
+        "courses":[
+            {
+
+            },
+            {
+
+            }
+
+        ]
+        }, {
+        "course_title": "Udacity AI Programming in Python Nanodegree",
+        "courses":[
+            {
+
+            },
+            {
+
+            }
+        ]
+        }
+    ]
+}
