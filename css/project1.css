@@ -57,6 +57,10 @@ img {
     margin-top: 20px;
 }
 
+a, a:visited {
+    color: inherit;
+}
+
 .name {
     width: 80%;
 }
@@ -88,12 +92,13 @@ img {
 
 .course_section {
     display: flex;
+    flex-wrap: wrap;
 }
 
 .course {
     display: flex;
     flex-direction: column;
-    width: 30%;
+    width: 33%;
 }
 
 .course_image {
@@ -108,16 +113,6 @@ img {
 .footer {
     max-width: 80%;
     margin: 3% 10%;
-}
-
-.social_media {
-    display: flex;
-    flex-direction: column;
-    text-transform: none;
-    text-align: center;
-    margin-top: 20px;
-    margin-bottom: 20px;
-    font-size: 15px;
 }
 
 @media screen and (max-width: 500px) {
@@ -145,6 +140,12 @@ img {
 
     .name {
         width: 100%;
+    }
+}
+
+@media screen and (min-width: 1000px) {
+    .course {
+        width: 20%;
     }
 }
 
