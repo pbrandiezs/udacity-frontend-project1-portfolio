@@ -98,7 +98,6 @@ a, a:visited {
 .course {
     display: flex;
     flex-direction: column;
-    width: 33%;
 }
 
 .course_image {
@@ -130,7 +129,6 @@ a, a:visited {
     }
 
     .course_section {
-        flex-direction: column;
         width: 100%;
     }
 
@@ -140,6 +138,12 @@ a, a:visited {
 
     .name {
         width: 100%;
+    }
+}
+
+@media screen and (min-width: 501px) {
+    .course {
+        width: 33%;
     }
 }
 
