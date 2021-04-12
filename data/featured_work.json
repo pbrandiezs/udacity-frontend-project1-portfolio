@@ -10,28 +10,77 @@
             "github_link": "https://github.com/pbrandiezs/udacity-frontend-project1-portfolio"
             },
             {
-            "title": "Project 2 - Memory Game"
+            "title": "Project 2 - Memory Game",
+            "image": "images/fend-project2.jpg",
+            "alt_image": "Memory Game Graphic",
+            "description": "Memory Game - Demonstrate JavaScript, HTTP, CSS, and Responsive Design with a Matching Game.",
+            "github_link": "https://github.com/pbrandiezs/udacity-frontend-project2-memory-game",
+            "website_link": "fend-project2/index.html"
+            },
+            {
+            "title": "Project 3 - Classic Arcade Game",
+            "image": "images/fend-project3.JPG",
+            "alt_image": "Feed Reader Testing Project Graphic",
+            "description": "Classic Arcade Game - Fun game to demonstrate Object Oriented JavaScript, HTML5 Canvas, and a game engine.",
+            "github_link": "https://github.com/pbrandiezs/udacity-frontend-project3-arcade-game",
+            "website_link": "fend-project3/index.html"
+            },
+            {
+            "title": "Project 4 - Feed Reader Testing",
+            "image": "images/fend-project4.jpg",
+            "alt_image": "Feed Reader Testing Project Graphic",
+            "description": "Feed Reader Testing - This project is a demonstration of writing JavaScript test-suites using Jasmine for a RSS Feed Reader program.  Demonstrates Jasmine and JavaScript Testing Frameworks skills.",
+            "github_link": "https://github.com/pbrandiezs/udacity-frontend-project4-feedreader"
+            },
+            {
+            "title": "Final Project - Restaurant Reviews",
+            "image": "images/fend-final-project.JPG",
+            "alt_image": "Restaurant Reviews Project Graphic",
+            "description": "Restaurant Reviews - This project is a demonstration of several Front End Web Development skills: working with Service Workers / Offline web design, A11Y accessibility, responsive web design, and using map API's, html, javascript, and CSS.",
+            "github_link": "https://github.com/pbrandiezs/udacity-frontend-final-project-restaurant-reviews"
             }
         ]
         }, {
         "course_title": "Udacity Full Stack Web Developer Nanodegree",
         "courses":[
             {
-
+            "title": "Project 1 - Logs Analysis",
+            "image": "images/bank-phrom-Tzm3Oyu_6sk-unsplash.jpg",
+            "alt_image": "Newspaper Press",
+            "description": "News Analysis - This project uses a vagrant VM and PostgreSQL. The python program uses back-end SQL queries to help demonstrate a log-analysis example, utilizing joins, parsing paths, HTML status, etc.",
+            "github_link": "https://github.com/pbrandiezs/udacity-full-stack-project-1-news-analysis"
             },
             {
-
+            "title": "Project 2 - Item Catalog",
+            "image": "images/card-catalog-194280_1280.jpg",
+            "alt_image": "Card Catalog",
+            "description": "Item Catalog - This program demonstrates CRUD operations using an Item Catalog.  This program demonstrates OAuth2 authentication and authorization using a third party provider.  This program demonstrates API endpoints.",
+            "github_link": "https://github.com/pbrandiezs/udacity-fullstack-project-item-catalog"
+            },
+            {
+            "title": "Final Project - Fullstack Web Catalog Server",
+            "image": "images/G650.jpg",
+            "alt_image": "G650ER jet",
+            "description": "Ace's High Aviation - Example of Python Flask WSGI live web server AWS Lightsail linux server deployment demonstrating CRUD operations, OAUTH2 login, and API endpoints, using a PostgreSQL back-end.",
+            "github_link": "https://github.com/pbrandiezs/udacity-fullstack-project-web-catalog-server"
             }
-
         ]
         }, {
         "course_title": "Udacity AI Programming in Python Nanodegree",
         "courses":[
             {
-
+            "title": "Project 1 - Dog Breed Image Classifier",
+            "image": "images/Miniature_schnauzer_06884.jpg",
+            "alt_image": "Miniature schnauzer",
+            "description": "This project demonstrates an Image Classifier, specifically using PyTorch to identify a Dog Breed from an image.",
+            "github_link": "https://github.com/pbrandiezs/udacity-aipnd-project1"
             },
             {
-
+            "title": "Final Project - Create Your Own Image Classifier",
+            "image": "images/pink_primrose.png",
+            "alt_image": "Pink Primrose",
+            "description": "This project demonstrates an Image Classifier, specifically using PyTorch to identify Flower Species from an image.",
+            "github_link": "https://github.com/pbrandiezs/udacity-aipnd-project-submission"
             }
         ]
         }
