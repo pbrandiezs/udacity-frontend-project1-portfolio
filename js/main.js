@@ -38,21 +38,21 @@ const fillCourseTitlesHTML = (course_titles = self.course_titles) => {
         course_section_element.className = "course_section";
 
         course_titles.courses.forEach(course => {
-            // Course title
+            // Course
             const course_element = document.createElement('div');
             course_element.className = "course";
-
-            const title_element = document.createElement('h3');
-            title_element.innerHTML = course.title;
-            title_element.value = course.title;
-            title_element.className = "project_title";
-            course_element.append(title_element);
             // Course image
             const image_element = document.createElement('img');
             image_element.src = course.image;
             image_element.alt = course.alt_image;
             image_element.className = "course_image";
             course_element.append(image_element);
+            // Course Title
+            const title_element = document.createElement('h3');
+            title_element.innerHTML = course.title;
+            title_element.value = course.title;
+            title_element.className = "project_title";
+            course_element.append(title_element);
             // Course description
             if (course.description) {
                 const description_element = document.createElement('p');

@@ -122,6 +122,30 @@
             "alt_image": "Linux Academy - AWS Certified Solutions Architect Associate SAA-C02"
             }
         ]
+        }, {
+        "course_title": "Docker",
+        "courses": [
+            {
+            "title": "Docker Certified Associate",
+            "image": "images/Docker-Certified-Associate.JPG",
+            "alt_image": "Docker Certified Associate"
+            },
+            {
+            "title": "Docker Sales Professional",
+            "image": "images/Docker-Sales-Professional.jpg",
+            "alt_image": "Docker Sales Professional"
+            },
+            {
+            "title": "Docker Technical Sales Professional",
+            "image": "images/Docker-Technical-Sales-Professional.jpg",
+            "alt_image": "Docker Technical Sales Professional"
+            },
+            {
+            "title": "IBM Docker Foundation Technology 1- IBM POWER SYSTEMS",
+            "image": "images/docker-foundation-technology-1.png",
+            "alt_image": "IBM Docker Foundation Technology 1 - IBM POWER SYSTEMS"
+            }
+        ]
         }
     ]
 }
