@@ -42,11 +42,20 @@ const fillCourseTitlesHTML = (course_titles = self.course_titles) => {
             const course_element = document.createElement('div');
             course_element.className = "course";
             // Course image
-            const image_element = document.createElement('img');
-            image_element.src = course.image;
-            image_element.alt = course.alt_image;
-            image_element.className = "course_image";
-            course_element.append(image_element);
+            if (course.image) {
+                const image_element = document.createElement('img');
+                image_element.src = course.image;
+                image_element.alt = course.alt_image;
+                image_element.className = "course_image";
+                course_element.append(image_element);
+            } else {
+                // Default Course image if none provided
+                const image_element = document.createElement('img');
+                image_element.src = "images/stock-photo-software-source-code-programming-code-programming-code-on-computer-screen-developer-working-on-634574354.jpg";
+                image_element.alt = course.title;
+                image_element.className = "course_image";
+                course_element.append(image_element);
+            };
             // Course Title
             const title_element = document.createElement('h3');
             title_element.innerHTML = course.title;
