@@ -83,6 +83,45 @@
             "github_link": "https://github.com/pbrandiezs/udacity-aipnd-project-submission"
             }
         ]
+        }, {
+        "course_title": "AWS",
+        "courses":[
+            {
+            "title": "AWS Certified Solutions Architect - Associate",
+            "image": "images/AWS-Certified-Solutions-Architect-Associate.jpg",
+            "alt_image": "AWS Certified Solutions Architect - Associate"
+            },
+            {
+            "title": "AWS Cloud Pracitioner Essentials (Second Edition)",
+            "image": "images/AWS-Cloud-Practitioner-Essentials-Second-Edition.jpg",
+            "alt_image": "AWS Cloud Pracitioner Essentials (Second Edition)"
+            },
+            {
+            "title": "Linux Academy - AWS Concepts",
+            "image": "images/Linux-Academy-AWS-Concepts.jpg",
+            "alt_image": "Linux Academy - AWS Concepts"
+            },
+            {
+            "title": "Linux Academy - AWS Essentials",
+            "image": "images/Linux-Academy-AWS-Essentials.jpg",
+            "alt_image": "Linux Academy - AWS Essentials"
+            },
+            {
+            "title": "Linux Academy - AWS Security Essentials",
+            "image": "images/Linux-Academy-AWS-Security-Essentials.jpg",
+            "alt_image": "Linux Academy - AWS Security Essentials"
+            },
+            {
+            "title": "Linux Academy - AWS Certified Solutions Architect - Associate Level",
+            "image": "images/Linux-Academy-AWS-Certified-Solutions-Architect-Associate-Level.jpg",
+            "alt_image": "Linux Academy - AWS Certified Solutions Architect - Associate Level"
+            },
+            {
+            "title": "Linux Academy - AWS Certified Solutions Architect Associate SAA-C02",
+            "image": "images/Linux-Academy-AWS-Certified-Solutions-Architect-Associate-SAA-C02.jpg",
+            "alt_image": "Linux Academy - AWS Certified Solutions Architect Associate SAA-C02"
+            }
+        ]
         }
     ]
 }

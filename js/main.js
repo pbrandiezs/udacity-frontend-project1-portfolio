@@ -54,9 +54,11 @@ const fillCourseTitlesHTML = (course_titles = self.course_titles) => {
             image_element.className = "course_image";
             course_element.append(image_element);
             // Course description
-            const description_element = document.createElement('p');
-            description_element.textContent = course.description;
-            course_element.append(description_element);
+            if (course.description) {
+                const description_element = document.createElement('p');
+                description_element.textContent = course.description;
+                course_element.append(description_element);
+            };
             // Github
             if (course.github_link) {
                 const github_element = document.createElement('a');
