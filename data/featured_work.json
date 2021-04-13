@@ -144,6 +144,25 @@
             "title": "IBM Docker Foundation Technology 1- IBM POWER SYSTEMS",
             "image": "images/docker-foundation-technology-1.png",
             "alt_image": "IBM Docker Foundation Technology 1 - IBM POWER SYSTEMS"
+            },
+            {
+            "title": "Linux Academy - Docker Certified Associate Prep Course",
+            "image": "images/Linux-Academy-Docker-Certified-Associate-Prep-Course.jpg",
+            "alt_image": "Linux Academy - Docker Certified Associate Prep Course"
+            },
+            {
+            "title": "Linux Academy - Docker Deep Dive",
+            "image": "images/Linux-Academy-Docker-Deep-Dive.jpg",
+            "alt_image": "Linux Academy - Docker Deep Dive"
+            },
+            {
+            "title": "Docker Enterprise Operations"
+            },
+            {
+            "title": "Docker Fundamentals"
+            },
+            {
+            "title": "IBM Docker Foundation Technology 1 IBM POWER Systems - SSE Enhancing Workload and Capacity Management on Power Systems"
             }
         ]
         }, {
@@ -299,6 +318,82 @@
             },
             {
             "title": "IBM Certified Specialist - RS/6000 SP"
+            },
+            {
+            "title": "IBM Docker Foundation Technology 1 IBM POWER Systems - SSE Enhancing Workload and Capacity Management on Power Systems"
+            },
+            {
+            "title": "IBM Advanced Technical Support Master Program 2013"
+            },
+            {
+            "title": "IBM Power Systems running Linux - Getting started - LX21"
+            },
+            {
+            "title": "IBM PureApplication Pattern Bootcamp"
+            }
+        ]
+        }, {
+        "course_title": "Puppet",
+        "courses": [
+            {
+            "title": "Puppet Fundamentals"
+            },
+            {
+            "title": "Puppet Practitioner"
+            }
+        ]
+        }, {
+        "course_title": "Python",
+        "courses": [
+            {
+            "title": "Udacity AI Programming in Python Nanodegree",
+            "image": "images/Udacity-AI-Programming-in-Python-Nanodegree.JPG",
+            "alt_image": "Udacity AI Programming in Python Nanodegree"
+            },
+            {
+            "title": "Linux Academy - Python 3 Scripting for System Administrators",
+            "image": "images/Linux-Academy-Python-3-Scripting-for-System-Administrators.jpg",
+            "alt_image": "Linux Academy - Python 3 Scripting for System Administrators"
+            }
+        ]
+        }, {
+        "course_title": "Red Hat",
+        "courses": [
+            {
+            "title": "Red Hat 7 - Red Hat System Administration I - RH124"
+            },
+            {
+            "title": "Red Hat 7 - Red Hat System Administration II - RH134"
+            },
+            {
+            "title": "Linux Academy Red Hat Certified System Administrator (EX200) - RHCSA Exam Prep",
+            "image": "images/Linux-Academy-Red-Hat-Certified-System-Administrator-(EX200)-RHCSA-Exam-Prep.jpg",
+            "alt_image": "Linux Academy Red Hat Certified System Administrator (EX200) - RHCSA Exam Prep"
+            }
+        ]
+        }, {
+        "course_title": "Udacity",
+        "courses": [
+            {
+            "title": "Udacity Front End Web Developer Nanodegree",
+            "image": "images/Udacity-Front-End-Web-Developer-Nanodegree.JPG",
+            "alt_image": "Udacity Front End Web Developer Nanodegree"
+            },
+            {
+            "title": "Udacity Full Stack Web Developer Nanodegree",
+            "image": "images/Udacity-Full-Stack-Web-Developer-Nanodegree.JPG",
+            "alt_image": "Udacity Full Stack Web Developer Nanodegree"
+            },
+            {
+            "title": "Udacity AI Programming in Python Nanodegree",
+            "image": "images/Udacity-AI-Programming-in-Python-Nanodegree.JPG",
+            "alt_image": "Udacity AI Programming in Python Nanodegree"
+            },
+            {
+            "title": "Udacity HTML5 Canvas"
+            },
+            {
+            "title": "Udacity Introduction to JavaScript"
             }
         ]
         }
