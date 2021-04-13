@@ -5,7 +5,7 @@
 
 
  This program is the dbhelper for the Portfolio application, pulling
- the data from /data/featured_work.json.
+ the data from data/featured_work.json.
 
 */
 class DBHelper {

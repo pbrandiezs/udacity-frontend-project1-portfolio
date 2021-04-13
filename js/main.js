@@ -5,7 +5,7 @@
 
 
  This program is the main javascript program for the Portfolio application.  It pulls from
- featured_work_info.js, and in turn dbhelper.js to populate the information.
+ dbhelper.js, and in turn data/featured_work_info.json to populate the information.
 
 */
 
