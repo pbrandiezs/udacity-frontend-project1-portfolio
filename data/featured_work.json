@@ -3,6 +3,11 @@
         "course_title": "Udacity Front End Web Developer Nanodegree",
         "courses": [
             {
+            "title": "Udacity Front End Web Developer Nanodegree",
+            "image": "images/Udacity-Front-End-Web-Developer-Nanodegree.JPG",
+            "alt_image": "Udacity Front End Web Developer Nanodegree"
+            },
+            {
             "title": "Project 1 - Logs Analysis",
             "image": "images/stock-photo-software-source-code-programming-code-programming-code-on-computer-screen-developer-working-on-634574354.jpg",
             "alt_image": "Coding Graphic",
@@ -44,6 +49,11 @@
         "course_title": "Udacity Full Stack Web Developer Nanodegree",
         "courses":[
             {
+            "title": "Udacity Full Stack Web Developer Nanodegree",
+            "image": "images/Udacity-Full-Stack-Web-Developer-Nanodegree.JPG",
+            "alt_image": "Udacity Full Stack Web Developer Nanodegree"
+            },
+            {
             "title": "Project 1 - Logs Analysis",
             "image": "images/bank-phrom-Tzm3Oyu_6sk-unsplash.jpg",
             "alt_image": "Newspaper Press",
@@ -68,6 +78,11 @@
         }, {
         "course_title": "Udacity AI Programming in Python Nanodegree",
         "courses":[
+            {
+            "title": "Udacity AI Programming in Python Nanodegree",
+            "image": "images/Udacity-AI-Programming-in-Python-Nanodegree.JPG",
+            "alt_image": "Udacity AI Programming in Python Nanodegree"
+            },
             {
             "title": "Project 1 - Dog Breed Image Classifier",
             "image": "images/Miniature_schnauzer_06884.jpg",
@@ -156,13 +171,22 @@
             "alt_image": "Linux Academy - Docker Deep Dive"
             },
             {
-            "title": "Docker Enterprise Operations"
+            "title": "Docker For Enterprise Operations",
+            "image": "images/Docker-For-Enterprise-Operations.jpg",
+            "alt_image": "Docker For Enterprise Operations"
             },
             {
-            "title": "Docker Fundamentals"
+            "title": "Docker Fundamentals",
+            "image": "images/Docker-Fundamentals.jpg",
+            "alt_image": "Docker Fundamentals"
             },
             {
             "title": "IBM Docker Foundation Technology 1 IBM POWER Systems - SSE Enhancing Workload and Capacity Management on Power Systems"
+            },
+            {
+            "title": "IBM Docker Essentials for Power Systems",
+            "image": "images/IBM-Docker-Essentials-for-Power-Systems.jpg",
+            "alt_image": "IBM Docker Essentials for Power Systems"
             }
         ]
         }, {
@@ -239,82 +263,139 @@
             "alt_image": "POWER9 Scale Out Servers Level 2"
             },
             {
-            "title": "IBM Certified System Administrator - PureApplication System V2.0"
+            "title": "IBM Certified System Administrator - PureApplication System V2.0",
+            "image": "images/IBM-Certified-System-Administrator-PureApplication-System-V2.0.jpg",
+            "alt_image": "IBM Certified System Administrator - PureApplication System V2.0"
             },
             {
-            "title": "IBM Certified Advanced Technical Expert - Power Systems with AIX v3"
+            "title": "IBM Certified Advanced Technical Expert - Power Systems with AIX v3",
+            "image": "images/IBM-Certified-Advanced-Technical-Expert-Power-Systems-with-AIX-v3.jpg",
+            "alt_image": "IBM Certified Advanced Technical Expert - Power Systems with AIX v3"
             },
             {
-            "title": "IBM Certified Specialist - XIV Storage System Technical Solutions"
+            "title": "IBM Certified Specialist - XIV Storage System Technical Solutions",
+            "image": "images/IBM-Certified-Specialist-XIV-Storage-System-Technical-Solutions-V3.jpg",
+            "alt_image": "IBM Certified Specialist - XIV Storage System Technical Solutions"
             },
             {
-            "title": "IBM Certified System Administrator - AIX 7"
+            "title": "IBM Certified System Administrator - AIX 7",
+            "image": "images/IBM-Certified-System-Administrator-AIX-7.jpg",
+            "alt_image": "IBM Certified System Administrator - AIX 7"
             },
             {
-            "title": "IBM Certified Systems Expert - High Availability for AIX Technical Support and Administration -v2"
+            "title": "IBM Certified Systems Expert - High Availability for AIX Technical Support and Administration -v2",
+            "image": "images/IBM-Certified-Systems-Expert-High-Availability-for-AIX-Technical-Support-and-Administration-v2.jpg",
+            "alt_image": "IBM Certified Systems Expert - High Availability for AIX Technical Support and Administration -v2"
             },
             {
-            "title": "IBM Certified Specialist - High-End Disk for Open Systems V2"
+            "title": "IBM Certified Specialist - High-End Disk for Open Systems V2",
+            "image": "images/IBM-Certified-Specialist-High-End-Disk-for-Open-Systems-V2.jpg",
+            "alt_image": "IBM Certified Specialist - High-End Disk for Open Systems V2"
             },
             {
-            "title": "IBM Certified ADP - IBM Service Management Tivoli Storage Management V4"
+            "title": "IBM Certified ADP - IBM Service Management Tivoli Storage Management V4",
+            "image": "images/IBM-Certified-Advanced-Deployment-Professional-IBM-Service-Management-Tivoli-Storage-Management-V4.jpg",
+            "alt_image": "IBM Certified ADP - IBM Service Management Tivoli Storage Management V4"
             },
             {
-            "title": "IBM Certified Deployment Professional - Tivoli Storage Manager Fastback V6.1.1"
+            "title": "IBM Certified Deployment Professional - Tivoli Storage Manager Fastback V6.1.1",
+            "image": "images/IBM-Certified-Deployment-Professional-Tivoli-Storage-Manager-Fastback-V6.1.1.jpg",
+            "alt_image": "IBM Certified Deployment Professional - Tivoli Storage Manager Fastback V6.1.1"
             },
             {
-            "title": "IBM Certified Deployment Professional - Tivoli Storage Manager V6.3"
+            "title": "IBM Certified Deployment Professional - Tivoli Storage Manager V6.3",
+            "image": "images/IBM-Certified-Deployment-Professional-Tivoli-Storage-Manager-V6.3.jpg",
+            "alt_image": "IBM Certified Deployment Professional - Tivoli Storage Manager V6.3"
             },
             {
-            "title": "IBM Certified Solution Advisor - Tivoli Storage Solutions V3"
+            "title": "IBM Certified Solution Advisor - Tivoli Storage Solutions V3",
+            "image": "images/IBM-Certified-Solution-Advisor-Tivoli-Storage-Solutions-V3.jpg",
+            "alt_image": "IBM Certified Solution Advisor - Tivoli Storage Solutions V3"
             },
             {
-            "title": "IBM Certified Specialist - Storwize V7000 Technical Solutions V1"
+            "title": "IBM Certified Specialist - Storwize V7000 Technical Solutions V1",
+            "image": "images/IBM-Certified-Specialist-Storwize-V7000-Technical-Solutions-V1.jpg",
+            "alt_image": "IBM Certified Specialist - Storwize V7000 Technical Solutions V1"
             },
             {
-            "title": "IBM Certified Systems Expert - Enterprise Technical Support for AIX and Linux -v2"
+            "title": "IBM Certified Systems Expert - Enterprise Technical Support for AIX and Linux - v2",
+            "image": "images/IBM-Certified-Systems-Expert-Enterprise-Technical-Support-for-AIX-and-Linux-v2.jpg",
+            "alt_image": "IBM Certified Systems Expert - Enterprise Technical Support for AIX and Linux - v2"
             },
             {
-            "title": "IBM Certified Systems Expert - Virtualization Technical Support for AIX and Linux - v2"
+            "title": "IBM Certified Systems Expert - Virtualization Technical Support for AIX and Linux - v2",
+            "image": "images/IBM-Certified-Systems-Expert-Virtualization-Technical-Support-for-AIX-and-Linux-v2.jpg",
+            "alt_image": "IBM Certified Systems Expert - Virtualization Technical Support for AIX and Linux - v2"
             },
             {
-            "title": "IBM Certified Deployment Professional - Tivoli Storage Productivity Center V4.2"
+            "title": "IBM Certified Deployment Professional - Tivoli Storage Productivity Center V4.2",
+            "image": "images/IBM-Certified-Deployment-Professional-Tivoli-Storage-Productivity-Center-V4.2.jpg",
+            "alt_image": "IBM Certified Deployment Professional - Tivoli Storage Productivity Center V4.2"
             },
             {
-            "title": "IBM Certified Technical Sales Expert - Power Systems with POWER7 - v1"
+            "title": "IBM Certified Technical Sales Expert - Power Systems with POWER7 - v1",
+            "image": "images/IBM-Certified-Technical-Sales-Expert-Power-Systems-with-POWER7-v1.jpg",
+            "alt_image": "IBM Certified Technical Sales Expert - Power Systems with POWER7 - v1"
             },
             {
-            "title": "IBM Certified Technical Sales Specialist - Power Systems with POWER7 and IBM i - v1"
+            "title": "IBM Certified Technical Sales Specialist - Power Systems with POWER7 and IBM i - v1",
+            "image": "images/IBM-Certified-Technical-Sales-Specialist-Power-Systems-with-POWER7-and-IBM-i-v1.jpg",
+            "alt_image": "IBM Certified Technical Sales Specialist - Power Systems with POWER7 and IBM i - v1"
             },
             {
-            "title": "IBM Certified System Administrator - WebSphere Commerce V7.0"
+            "title": "IBM Certified System Administrator - WebSphere Commerce V7.0",
+            "image": "images/IBM-Certified-System-Administrator-WebSphere-Commerce-V7.0.jpg",
+            "alt_image": "IBM Certified System Administrator - WebSphere Commerce V7.0"
             },
             {
-            "title": "IBM Certified Technical Sales Specialist - Power Systems with POWER7 and AIX - v1"
+            "title": "IBM WebSphere Portal Technical Sales Professional v3",
+            "image": "images/IBM-WebSphere-Portal-Technical-Sales-Professional-v3.jpg",
+            "alt_image": "IBM WebSphere Portal Technical Sales Professional v3"
             },
             {
-            "title": "IBM Certified Systems Expert - High Availability for AIX Technical Support and Administration"
+            "title": "IBM Certified Technical Sales Specialist - Power Systems with POWER7 and AIX - v1",
+            "image": "images/IBM-Certified-Technical-Sales-Specialist-Power-Systems-with-POWER7-and-AIX-v1.jpg",
+            "alt_image": "IBM Certified Technical Sales Specialist - Power Systems with POWER7 and AIX - v1"
             },
             {
-            "title": "IBM Certified System Administrator - AIX 6.1"
+            "title": "IBM Certified Systems Expert - High Availability for AIX Technical Support and Administration",
+            "image": "images/IBM-Certified-Systems-Expert-High-Availability-for-AIX-Technical-Support-and-Administration.jpg",
+            "alt_image": "IBM Certified Systems Expert - High Availability for AIX Technical Support and Administration"
             },
             {
-            "title": "IBM Certified Deployment Professional - Tivoli Storage Manager V6.1"
+            "title": "IBM Certified System Administrator - AIX 6.1",
+            "image": "images/IBM-Certified-System-Administrator-AIX-6.1-Administration.jpg",
+            "alt_image": "IBM Certified System Administrator - AIX 6.1"
             },
             {
-            "title": "IBM Certified Systems Expert - eServer p5 and pSeries Enterprise Technical Support AIX 5L V5.3"
+            "title": "IBM Certified Deployment Professional - Tivoli Storage Manager V6.1",
+            "image": "images/IBM-Certified-Deployment-Professional-Tivoli-Storage-Manager-V6.1.jpg",
+            "alt_image": "IBM Certified Deployment Professional - Tivoli Storage Manager V6.1"
             },
             {
-            "title": "IBM eserver Certified Systems Expert - pSeries Enterprise Technical Support"
+            "title": "IBM Certified Systems Expert - eServer p5 and pSeries Enterprise Technical Support AIX 5L V5.3",
+            "image": "images/IBM-Certified-Systems-Expert-eServer-p5-and-pSeries-Enterprise-Technical-Support-AIX-5L-V5.3.jpg",
+            "alt_image": "IBM Certified Systems Expert - eServer p5 and pSeries Enterprise Technical Support AIX 5L V5.3"
             },
             {
-            "title": "IBM Certified Specialist - eServer p5 and pSeries Administration and Support for AIX 5L V5.3"
+            "title": "IBM eserver Certified Systems Expert - pSeries Enterprise Technical Support",
+            "image": "images/IBM-eserver-Certified-Systems-Expert-pSeries-Enterprise-Technical-Support.jpg",
+            "alt_image": "IBM eserver Certified Systems Expert - pSeries Enterprise Technical Support"
             },
             {
-            "title": "IBM Certified Specialist - HACMP for AIX"
+            "title": "IBM Certified Specialist - eServer p5 and pSeries Administration and Support for AIX 5L V5.3",
+            "image": "images/IBM-Certified-Specialist-eServer-p5-and-pSeries-Administration-and-Support-for-AIX-5L-V5.3.jpg",
+            "alt_image": "IBM Certified Specialist - eServer p5 and pSeries Administration and Support for AIX 5L V5.3"
             },
             {
-            "title": "IBM Certified Specialist - AIX V4.1 Systems Administration"
+            "title": "IBM Certified Specialist - AIX HACMP",
+            "image": "images/IBM-Certified-Specialist-AIX-HACMP.jpg",
+            "alt_image": "IBM Certified Specialist - AIX HACMP"
+            },
+            {
+            "title": "IBM Certified Specialist - AIX V4.1 Systems Administration",
+            "image": "images/IBM-Certified-Specialist-AIX-V4.1-System-Administration.jpg",
+            "alt_image": "IBM Certified Specialist - AIX V4.1 Systems Administration"
             },
             {
             "title": "IBM Certified Specialist - RS/6000 SP"
@@ -330,16 +411,25 @@
             },
             {
             "title": "IBM PureApplication Pattern Bootcamp"
+            },
+            {
+            "title": "IBM Docker Essentials for Power Systems",
+            "image": "images/IBM-Docker-Essentials-for-Power-Systems.jpg",
+            "alt_image": "IBM Docker Essentials for Power Systems"
             }
         ]
         }, {
         "course_title": "Puppet",
         "courses": [
             {
-            "title": "Puppet Fundamentals"
+            "title": "Puppet Fundamentals",
+            "image": "images/Puppet-Virtual-Fundamentals.jpg",
+            "alt_image": "Puppet Fundamentals"
             },
             {
-            "title": "Puppet Practitioner"
+            "title": "Puppet Practitioner",
+            "image": "images/Puppet-Virtual-Practitioner.jpg",
+            "alt_image": "Puppet Practitioner"
             }
         ]
         }, {
@@ -360,15 +450,29 @@
         "course_title": "Red Hat",
         "courses": [
             {
-            "title": "Red Hat 7 - Red Hat System Administration I - RH124"
+            "title": "Red Hat 7 - Red Hat System Administration I - RH124",
+            "image": "images/Red-Hat-Online-Learning.jpg",
+            "alt_image": "Red Hat 7 - Red Hat System Administration I - RH124"
             },
             {
-            "title": "Red Hat 7 - Red Hat System Administration II - RH134"
+            "title": "Red Hat 7 - Red Hat System Administration II - RH134",
+            "image": "images/Red-Hat-Online-Learning.jpg",
+            "alt_image": "Red Hat 7 - Red Hat System Administration II - RH134"
             },
             {
             "title": "Linux Academy Red Hat Certified System Administrator (EX200) - RHCSA Exam Prep",
             "image": "images/Linux-Academy-Red-Hat-Certified-System-Administrator-(EX200)-RHCSA-Exam-Prep.jpg",
             "alt_image": "Linux Academy Red Hat Certified System Administrator (EX200) - RHCSA Exam Prep"
+            },
+            {
+            "title": "Red Hat 6 - Red Hat System Administration I - RH124",
+            "image": "images/Red-Hat-Online-Learning.jpg",
+            "alt_image": "Red Hat 6 - Red Hat System Administration I - RH124"
+            },
+            {
+            "title": "Red Hat 6 - Red Hat System Administration II - RH135",
+            "image": "images/Red-Hat-Online-Learning.jpg",
+            "alt_image": "Red Hat 6 - Red Hat System Administration II - RH135"
             }
         ]
         }, {
