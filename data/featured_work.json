@@ -99,6 +99,31 @@
             }
         ]
         }, {
+            "course_title": "Android - Kotlin",
+            "courses":[
+            {
+            "title": "Happy Birthday App",
+            "image": "images/Android-Happy-Birthday.jpg",
+            "alt_image": "Happy Birthday App",
+            "description": "Google Android Basics in Kotlin course:  An introductory happy birthday Kotlin android app.",
+            "github_link": "https://github.com/pbrandiezs/android-happy-birthday"
+            },
+            {
+            "title": "Dice Roller App",
+            "image": "images/Android-Dice-Roller.jpg",
+            "alt_image": "Dice Roller App",
+            "description": "Google Android Basics in Kotlin course:  App to roll a single dice.",
+            "github_link": "https://github.com/pbrandiezs/android-roll-dice"
+            },
+            {
+            "title": "Tip Time App",
+            "image": "images/Android-Tip-Time.jpg",
+            "alt_image": "Tip Time App",
+            "description": "Google Android Basics in Kotlin course:  App to calculate tips, as the course progresses through further code and design components.",
+            "github_link": "https://github.com/pbrandiezs/android-tip-time"
+            }
+        ]
+        }, {
         "course_title": "AWS",
         "courses":[
             {
@@ -190,6 +215,51 @@
             }
         ]
         }, {
+            "course_title": "Google Developer Profile",
+            "courses": [
+            {
+            "title": "Created Google Developer Profile",
+            "image": "images/Google-Created-Google-Developer-Profile.jpg",
+            "alt_image": "Created Google Developer Profile"
+            },
+            {
+            "title": "Introduction to Kotlin",
+            "image": "images/Google-Introduction-to-Kotlin.jpg",
+            "alt_image": "Introduction to Kotlin"
+            },
+            {
+            "title": "First Codelab Completed",
+            "image": "images/Google-First-Codelab-Completed.jpg",
+            "alt_image": "First Codelab Completed"
+            },
+            {
+            "title": "Android Studio User",
+            "image": "images/Google-Android-Studio-User.jpg",
+            "alt_image": "Android Studio User"
+            },
+            {
+            "title": "First App in Android Studio",
+            "image": "images/Google-First-App-in-Android-Studio.jpg",
+            "alt_image": "First App in Android Studio"
+            },
+            {
+            "title": "Build a Basic Layout",
+            "image": "images/Google-Build-a-Basic-Layout.jpg",
+            "alt_image": "Build a Basic Layout"
+            },
+            {
+            "title": "Dice Roller App",
+            "image": "images/Google-Dice-Roller-App.jpg",
+            "alt_image": "Dice Roller App"
+            },
+            {
+            "title": "Google Developer Profile Beta User",
+            "image": "images/Google-Developer-Profile-Beta-User.jpg",
+            "alt_image": "Google Developer Profile Beta User"
+            }
+        ]
+        },
+        {
         "course_title": "IBM",
         "courses": [
             {
