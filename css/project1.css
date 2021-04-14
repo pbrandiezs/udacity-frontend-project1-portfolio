@@ -88,6 +88,7 @@ a, a:visited {
 .course_title {
     margin-top: 20px;
     margin-bottom: 20px;
+    font-weight: normal;
 }
 
 .course_section {
