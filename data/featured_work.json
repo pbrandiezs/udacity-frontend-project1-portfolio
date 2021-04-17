@@ -119,7 +119,7 @@
             "title": "Tip Time App",
             "image": "images/Android-Tip-Time.jpg",
             "alt_image": "Tip Time App",
-            "description": "Google Android Basics in Kotlin course:  App to calculate tips, as the course progresses through further code and design components.",
+            "description": "Google Android Basics in Kotlin course:  App to calculate tips, as the course progresses through further code and design components.  Topics covered included class hierarchy, variables and functions with inheritance, abstract class, overriding, and private vs. public variables.  Also Material Design, themes, styles, added an icon for the app, and icons within the app, as well as learning about different UI components, light and dark mode.",
             "github_link": "https://github.com/pbrandiezs/android-tip-time"
             }
         ]
