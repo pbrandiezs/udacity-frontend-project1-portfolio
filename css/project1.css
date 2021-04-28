@@ -34,21 +34,10 @@ p {
     font-weight: lighter;
 }
 
-header {
-    font-family: Roboto;
-    color: #2d3c49;
-    width: 80%;
-    text-align: right;
-    margin: 3% 10%;
-    text-transform: uppercase;
-    display: flex;
-}
-
 hr {
     width: 100%;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 20px;
     height: 2px;
     background-color: #7d97ad;
 }
@@ -59,6 +48,16 @@ img {
 
 a, a:visited {
     color: inherit;
+}
+
+.header {
+    font-family: Roboto;
+    color: #2d3c49;
+    width: 80%;
+    text-align: right;
+    margin: 3% 10% 0% 10%;
+    text-transform: uppercase;
+    display: flex;
 }
 
 .header_list {
@@ -84,7 +83,7 @@ a, a:visited {
     color: #2d3c49;
     width: 80%;
     text-align: left;
-    margin: 3% 10%;
+    margin: 0% 10% 0% 10%;
 }
 
 .featured_title {
@@ -123,6 +122,14 @@ a, a:visited {
 
 .footer {
     max-width: 80%;
+    margin: 3% 10%;
+}
+
+#content-container {
+    font-family: Roboto;
+    color: #2d3c49;
+    width: 80%;
+    text-align: left;
     margin: 3% 10%;
 }
 
