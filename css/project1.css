@@ -61,8 +61,12 @@ a, a:visited {
     color: inherit;
 }
 
-.headerlist {
+.header_list {
     list-style-type: none;
+}
+
+.header_graphic {
+    width:100%;
 }
 
 .name {
