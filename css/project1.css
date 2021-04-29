@@ -113,13 +113,13 @@ a, a:visited {
 
 .course_image {
     width: 95%;
-    margin-top: 0px;
+    margin-top: 15px;
     box-shadow: 5px 5px 20px;
 }
 
 .project_title {
-    margin-top: 5px;
-    margin-bottom: 3px;
+    margin-top: 15px;
+    margin-bottom: 10px;
     font-weight: normal;
 }
 
