@@ -66,6 +66,7 @@ a, a:visited {
 
 .header_graphic {
     width:100%;
+    box-shadow: 5px 5px 20px;
 }
 
 .name {
@@ -113,6 +114,7 @@ a, a:visited {
 .course_image {
     width: 95%;
     margin-top: 0px;
+    box-shadow: 5px 5px 20px;
 }
 
 .project_title {
