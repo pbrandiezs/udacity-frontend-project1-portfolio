@@ -55,7 +55,7 @@
             },
             {
             "title": "Project 1 - Logs Analysis",
-            "image": "images/bank-phrom-Tzm3Oyu_6sk-unsplash.jpg",
+            "image": "images/bank-phrom-Tzm3Oyu_6sk-unsplash_small.jpg",
             "alt_image": "Newspaper Press",
             "description": "News Analysis - This project uses a vagrant VM and PostgreSQL. The python program uses back-end SQL queries to help demonstrate a log-analysis example, utilizing joins, parsing paths, HTML status, etc.",
             "github_link": "https://github.com/pbrandiezs/udacity-full-stack-project-1-news-analysis"
