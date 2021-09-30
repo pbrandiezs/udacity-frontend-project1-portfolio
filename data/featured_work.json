@@ -108,11 +108,12 @@
             "description": "I learned a lot about Angular from this interesting Udemy course (Angular - The Complete Guide 2021 Edition)!  460 Lessons, a Course Project, and many Coding Exercises covered everything from The Basics of Angular, Components, Databinding, Routing, Forms, Pipes, etc. through to the more complex.. NgRx, Angular Universal, Angular Animations, Offline Capabilities with Service Workers, Unit Testing in Angular Apps, Angular Material, generating Libraries and Projects with Multiple Applications, and it even included a Bonus Section on Typescript!  Great Course!"
             },
             {
-            "title": "Dice Roller App",
-            "image": "images/Android-Dice-Roller.jpg",
-            "alt_image": "Dice Roller App",
-            "description": "Google Android Basics in Kotlin course:  App to roll a single dice.",
-            "github_link": "https://github.com/pbrandiezs/android-roll-dice"
+            "title": "Course Project",
+            "image": "images/ng-course-recipe-book.jpg",
+            "alt_image": "Course Project",
+            "description": "The course project grew with examples as more concepts were added through the lessons.  It's a basic recipe application, with a shopping list.  Hosted on Google Cloud, using a Firebase DB engine as the backend.",
+            "github_link": "https://github.com/pbrandiezs/Udemy-Angular-The-Complete-Guide-2021-course-project",
+            "website_link": "https://ng-course-recipe-book-dd9ba.web.app"
             },
             {
             "title": "Tip Time App",
