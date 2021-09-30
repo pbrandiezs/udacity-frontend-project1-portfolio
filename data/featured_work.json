@@ -116,11 +116,32 @@
             "website_link": "https://ng-course-recipe-book-dd9ba.web.app"
             },
             {
-            "title": "Tip Time App",
-            "image": "images/Android-Tip-Time.jpg",
-            "alt_image": "Tip Time App",
-            "description": "Google Android Basics in Kotlin course:  App to calculate tips, as the course progresses through further code and design components.  Topics covered included class hierarchy, variables and functions with inheritance, abstract class, overriding, and private vs. public variables.  Also Material Design, themes, styles, added an icon for the app, and icons within the app, as well as learning about different UI components, light and dark mode.",
-            "github_link": "https://github.com/pbrandiezs/android-tip-time"
+            "title": "Assignment 1",
+            "image": "images/ng-course-assignment-1.jpg",
+            "alt_image": "Assignment 1",
+            "description": "Assignment 1 Practicing Components",
+            "github_link": "https://github.com/pbrandiezs/Udemy-Angular-The-Complete-Guide-2021-basics-assignment1"
+            },
+            {
+            "title": "Assignment 2",
+            "image": "images/ng-course-assignment-2.jpg",
+            "alt_image": "Assignment 2",
+            "description": "Assignment 2 Practicing Databinding",
+            "github_link": "https://github.com/pbrandiezs/Udemy-Angular-The-Complete-Guide-2021-basics-assignment2"
+            },
+            {
+            "title": "Assignment 3",
+            "image": "images/ng-course-assignment-3.jpg",
+            "alt_image": "Assignment 3",
+            "description": "Assignment 3 Practicing Directives",
+            "github_link": "https://github.com/pbrandiezs/Udemy-Angular-The-Complete-Guide-2021-basics-assignment3"
+            },
+            {
+            "title": "Assignment 4",
+            "image": "images/ng-course-assignment-4.jpg",
+            "alt_image": "Assignment 4",
+            "description": "Assignment 4 Practicing Property and Event Binding, and View Encapsulation",
+            "github_link": "https://github.com/pbrandiezs/Udemy-Angular-The-Complete-Guide-2021-Assignment4"
             }
         ]
         },{
