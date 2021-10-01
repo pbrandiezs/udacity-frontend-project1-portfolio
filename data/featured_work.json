@@ -254,6 +254,20 @@
             "alt_image": "Unit Testing",
             "description": "Basic Introduction to Unit Testing in Angular Apps",
             "github_link": "https://github.com/pbrandiezs/Udemy-Angular-The-Complete-Guide-2021-Unit-Testing"
+            },
+            {
+            "title": "CLI",
+            "image": "images/ng-course-cli.jpg",
+            "alt_image": "CLI",
+            "description": "Angular as a Platform and Closer Look at the CLI.  Covers ng new, IDE and Project Setup, Config Files, Important CLI Commands, Angular Material, angular.json, Angular Schematics, ng add, Custom ng generate Schematics, ng update, ng deploy, Differential Loading, Managing Multiple Projects in One Folder, and Angular Libraries.",
+            "github_link": "https://github.com/pbrandiezs/Udemy-Angular-The-Complete-Guide-2021-CLI"
+            },
+            {
+            "title": "TypeScript Introduction",
+            "image": "images/ng-course-typescript-introduction.jpg",
+            "alt_image": "TypeScript Introduction",
+            "description": "Bonus: TypeScript Introduction (for Angular Usage).  Installing and Using TypeScript, Base Types and Primitives, Array and Object Types, Type Inference, Working with Union Types, Assigning Type Aliases, Functions and Function Types, Generics, Classes and TypeScript, Interfaces, and Configuring the TypeScript Compiler.",
+            "github_link": "https://github.com/pbrandiezs/Udemy-Angular-The-Complete-Guide-2021-TypeScript-Introduction"
             }
         ]
         },{
