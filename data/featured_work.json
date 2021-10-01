@@ -247,6 +247,13 @@
             "alt_image": "Service Workers",
             "description": "Adding Offline Capabilities with Service Workers",
             "github_link": "https://github.com/pbrandiezs/Udemy-Angular-The-Complete-Guide-2021-Service-Workers"
+            },
+            {
+            "title": "Unit Testing",
+            "image": "images/ng-course-unit-testing.jpg",
+            "alt_image": "Unit Testing",
+            "description": "Basic Introduction to Unit Testing in Angular Apps",
+            "github_link": "https://github.com/pbrandiezs/Udemy-Angular-The-Complete-Guide-2021-Unit-Testing"
             }
         ]
         },{
