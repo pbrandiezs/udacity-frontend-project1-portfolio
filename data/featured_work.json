@@ -240,6 +240,13 @@
             "alt_image": "Animations",
             "description": "Angular Animations",
             "github_link": "https://github.com/pbrandiezs/Udemy-Angular-The-Complete-Guide-2021-animations"
+            },
+            {
+            "title": "Service Workers",
+            "image": "images/ng-course-service-workers.jpg",
+            "alt_image": "Service Workers",
+            "description": "Adding Offline Capabilities with Service Workers",
+            "github_link": "https://github.com/pbrandiezs/Udemy-Angular-The-Complete-Guide-2021-Service-Workers"
             }
         ]
         },{
