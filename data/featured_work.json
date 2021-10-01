@@ -102,9 +102,9 @@
             "course_title": "Angular - The Complete Guide (2021 Edition) - Udemy",
             "courses":[
             {
-            "title": "Angular - The Complete Guide (2021 Edition) - Course Completion Certicate",
+            "title": "Angular - The Complete Guide (2021 Edition) - Course Completion Certificate",
             "image": "images/Angular - The Complete Guide (2021 Edition).jpg",
-            "alt_image": "Angular - The Complete Guide (2021 Edition) - Course Completion Certicate",
+            "alt_image": "Angular - The Complete Guide (2021 Edition) - Course Completion Certificate",
             "description": "I learned a lot about Angular from this interesting Udemy course (Angular - The Complete Guide 2021 Edition)!  460 Lessons, a Course Project, and many Coding Exercises covered everything from The Basics of Angular, Components, Databinding, Routing, Forms, Pipes, etc. through to the more complex.. NgRx, Angular Universal, Angular Animations, Offline Capabilities with Service Workers, Unit Testing in Angular Apps, Angular Material, generating Libraries and Projects with Multiple Applications, and it even included a Bonus Section on Typescript!  Great Course!"
             },
             {
@@ -170,6 +170,20 @@
             "alt_image": "Assignment 8",
             "description": "Assignment 8 Practicing Pipes",
             "github_link": "https://github.com/pbrandiezs/Udemy-Angular-The-Complete-Guide-2021-assignment8"
+            },
+            {
+            "title": "Components and Databinding",
+            "image": "images/ng-course-components-and-databinding.jpg",
+            "alt_image": "Components and Databinding",
+            "description": "Components and Databinding Deep Dive",
+            "github_link": "https://github.com/pbrandiezs/Udemy-Angular-The-Complete-Guide-2021-Components-And-Databinding-Deep-Dive"
+            },
+            {
+            "title": "Directives",
+            "image": "images/ng-course-directives.jpg",
+            "alt_image": "Directives",
+            "description": "Directives Deep Dive",
+            "github_link": "https://github.com/pbrandiezs/Udemy-Angular-The-Complete-Guide-2021-Directives-Deep-Dive-Project"
             }
         ]
         },{
