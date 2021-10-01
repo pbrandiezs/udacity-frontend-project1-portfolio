@@ -226,6 +226,13 @@
             "alt_image": "Pipes",
             "description": "Using Pipes to Transform Output",
             "github_link": "https://github.com/pbrandiezs/Udemy-Angular-The-Complete-Guide-2021-pipes"
+            },
+            {
+            "title": "HTTP",
+            "image": "images/ng-course-http.jpg",
+            "alt_image": "HTTP",
+            "description": "Making HTTP Requests",
+            "github_link": "https://github.com/pbrandiezs/Udemy-Angular-The-Complete-Guide-2021-http"
             }
         ]
         },{
