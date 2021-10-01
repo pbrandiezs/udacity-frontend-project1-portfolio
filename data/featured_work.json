@@ -212,6 +212,13 @@
             "alt_image": "Forms - Template Driven",
             "description": "Template Driven Forms",
             "github_link": "https://github.com/pbrandiezs/Udemy-Angular-The-Complete-Guide-2021-forms-td"
+            },
+            {
+            "title": "Forms - Reactive",
+            "image": "images/ng-course-forms-reactive.jpg",
+            "alt_image": "Forms - Reactive",
+            "description": "Reactive Forms",
+            "github_link": "https://github.com/pbrandiezs/Udemy-Angular-The-Complete-Guide-2021-forms-reactive"
             }
         ]
         },{
