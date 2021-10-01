@@ -198,6 +198,20 @@
             "alt_image": "Routing",
             "description": "Changing Pages with Routing",
             "github_link": "https://github.com/pbrandiezs/Udemy-Angular-The-Complete-Guide-2021-routing"
+            },
+            {
+            "title": "Observables",
+            "image": "images/ng-course-observables.jpg",
+            "alt_image": "Observables",
+            "description": "Understanding Observables",
+            "github_link": "https://github.com/pbrandiezs/Udemy-Angular-The-Complete-Guide-2021-Observables"
+            },
+            {
+            "title": "Forms - Template Driven",
+            "image": "images/ng-course-forms-td.jpg",
+            "alt_image": "Forms - Template Driven",
+            "description": "Template Driven Forms",
+            "github_link": "https://github.com/pbrandiezs/Udemy-Angular-The-Complete-Guide-2021-forms-td"
             }
         ]
         },{
