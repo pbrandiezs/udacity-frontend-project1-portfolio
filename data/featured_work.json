@@ -184,6 +184,13 @@
             "alt_image": "Directives",
             "description": "Directives Deep Dive",
             "github_link": "https://github.com/pbrandiezs/Udemy-Angular-The-Complete-Guide-2021-Directives-Deep-Dive-Project"
+            },
+            {
+            "title": "Services",
+            "image": "images/ng-course-services.jpg",
+            "alt_image": "Services",
+            "description": "Services and Dependency Injection",
+            "github_link": "https://github.com/pbrandiezs/Udemy-Angular-The-Complete-Guide-2021-Services"
             }
         ]
         },{
