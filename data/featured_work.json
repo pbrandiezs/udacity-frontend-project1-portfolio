@@ -142,6 +142,34 @@
             "alt_image": "Assignment 4",
             "description": "Assignment 4 Practicing Property and Event Binding, and View Encapsulation",
             "github_link": "https://github.com/pbrandiezs/Udemy-Angular-The-Complete-Guide-2021-Assignment4"
+            },
+            {
+            "title": "Assignment 5",
+            "image": "images/ng-course-assignment-5.jpg",
+            "alt_image": "Assignment 5",
+            "description": "Assignment 5 Practicing Services",
+            "github_link": "https://github.com/pbrandiezs/Udemy-Angular-The-Complete-Guide-2021-assignment5-practicing-services"
+            },
+            {
+            "title": "Assignment 6",
+            "image": "images/ng-course-assignment-6.jpg",
+            "alt_image": "Assignment 6",
+            "description": "Assignment 6 Practicing Template Driven Forms",
+            "github_link": "https://github.com/pbrandiezs/Udemy-Angular-The-Complete-Guide-2021-assignment6-practicing-template-driven-forms"
+            },
+            {
+            "title": "Assignment 7",
+            "image": "images/ng-course-assignment-7.jpg",
+            "alt_image": "Assignment 7",
+            "description": "Assignment 7 Practicing Reactive Forms",
+            "github_link": "https://github.com/pbrandiezs/Udemy-Angular-The-Complete-Guide-2021-assignment7-Practicing-Reactive-Forms"
+            },
+            {
+            "title": "Assignment 8",
+            "image": "images/ng-course-assignment-8.jpg",
+            "alt_image": "Assignment 8",
+            "description": "Assignment 8 Practicing Pipes",
+            "github_link": "https://github.com/pbrandiezs/Udemy-Angular-The-Complete-Guide-2021-assignment8"
             }
         ]
         },{
