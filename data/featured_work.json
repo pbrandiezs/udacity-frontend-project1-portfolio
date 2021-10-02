@@ -239,7 +239,8 @@
             "image": "images/ng-course-animations.jpg",
             "alt_image": "Animations",
             "description": "Angular Animations",
-            "github_link": "https://github.com/pbrandiezs/Udemy-Angular-The-Complete-Guide-2021-animations"
+            "github_link": "https://github.com/pbrandiezs/Udemy-Angular-The-Complete-Guide-2021-animations",
+            "website_link": "./ng-course/animations/index.html"
             },
             {
             "title": "Service Workers",
