@@ -289,6 +289,13 @@
             "github_link": "https://github.com/pbrandiezs/android-roll-dice"
             },
             {
+            "title": "Lemonade App",
+            "image": "images/Android-Lemonade.jpg",
+            "alt_image": "Lemonade App",
+            "description": "Google Android Basics in Kotlin course:  Lemonade App.  Select a lemon, juice the lemon, and drink your lemonade!",
+            "github_link": "https://github.com/pbrandiezs/Android-Basics-Kotlin-Lemonade-App"
+            },
+            {
             "title": "Tip Time App",
             "image": "images/Android-Tip-Time.jpg",
             "alt_image": "Tip Time App",
